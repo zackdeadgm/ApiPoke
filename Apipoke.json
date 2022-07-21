@@ -19,7 +19,7 @@
             "height":0.4,
             "weight":6.0,
             "des":"Cuanto más potente es la energía eléctrica que genera este Pokémon, más suaves y elásticas se vuelven las bolsas de sus mejillas",
-            "figure":"https://static.wikia.nocookie.net/espokemon/images/7/77/Pikachu.png/revision/latest?cb=20150621181250"    
+            "figure":"https://static.wikia.nocookie.net/wikianimeotaku/images/b/b1/025Pikachu_XY_anime_3.png/revision/latest?cb=20160211185004&path-prefix=es"    
         },
         {
             "id":3,
@@ -28,7 +28,7 @@
             "height":0.9,
             "weight":10.0,
             "des":"Es el Pokémon más fuerte y potente que existe, con una fuerza y velocidad de mas de 1 billon",
-            "figure":"https://drive.google.com/file/d/1bUcIUcCY5HRTv7lovcHebmx4sTynnYH3/view?usp=sharing"        
+            "figure":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/129.png"        
         },
         {
             "id":4,
@@ -37,7 +37,7 @@
             "height":0.5,
             "weight":9.0,
             "des":"Cuando retrae su largo cuello en el caparazón, dispara agua a una presión increíble",
-            "figure":"https://drive.google.com/file/d/1HzBCKHglLi9ZcUxeyqh1VpNarNce6a_I/view?usp=sharing"  
+            "figure":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"  
         },
         {
             "id":5,
@@ -46,7 +46,7 @@
             "height":0.7,
             "weight":6.9,
             "des":"Este Pokémon nace con una semilla en el lomo, que brota con el paso del tiempo",
-            "figure":"https://drive.google.com/file/d/1-yp1l2bw-NSzX0sxxapuhr573mebRwMX/view?usp=sharing"      
+            "figure":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"      
         }
     ]
 }
