@@ -1,0 +1,52 @@
+{
+    "apiName":"zackapi",
+    "origin":"QRO",
+    "created":2022,
+    "figures":[
+        {
+            "id":1,
+            "name":"Charmander",
+            "type":"Fuego",
+            "height":6,
+            "weight":8,
+            "des":"Prefiere las cosas calientes. Dicen que cuando llueve le sale vapor de la punta de la cola.",
+            "figure":"https://drive.google.com/file/d/1faJ4HCYoJsLoUaWXZk_yleaOIXcv5kZV/view?usp=sharing"
+        },
+        {
+            "id":2,
+            "name":"Pikachu",
+            "type":"Electrico",
+            "height":0.4,
+            "weight":6.0,
+            "des":"Cuanto más potente es la energía eléctrica que genera este Pokémon, más suaves y elásticas se vuelven las bolsas de sus mejillas",
+            "figure":"https://drive.google.com/file/d/1O8pDuxg4_Qe-f-9_n9QtHvY9GPt3txkB/view?usp=sharing"    
+        },
+        {
+            "id":3,
+            "name":"Magikarp",
+            "type":"Agua",
+            "height":0.9,
+            "weight":10.0,
+            "des":"Es el Pokémon más fuerte y potente que existe, con una fuerza y velocidad de mas de 1 billon",
+            "figure":"https://drive.google.com/file/d/1bUcIUcCY5HRTv7lovcHebmx4sTynnYH3/view?usp=sharing"        
+        },
+        {
+            "id":4,
+            "name":"Squirtle",
+            "type":"agua",
+            "height":0.5,
+            "weight":9.0,
+            "des":"Cuando retrae su largo cuello en el caparazón, dispara agua a una presión increíble",
+            "figure":"https://drive.google.com/file/d/1HzBCKHglLi9ZcUxeyqh1VpNarNce6a_I/view?usp=sharing"  
+        },
+        {
+            "id":5,
+            "name":"Bulbasaur",
+            "typo":"Planta-veneno",
+            "height":0.7,
+            "weight":6.9,
+            "des":"Este Pokémon nace con una semilla en el lomo, que brota con el paso del tiempo",
+            "figure":"https://drive.google.com/file/d/1-yp1l2bw-NSzX0sxxapuhr573mebRwMX/view?usp=sharing"      
+        }
+    ]
+}
